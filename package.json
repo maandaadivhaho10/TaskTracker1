@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "start": "vite preview --port $PORT",
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port 5000"
   },
