@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="mt-8 text-center text-sm text-gray-600">
       <p>&copy; 2021</p>
       <Link to="/about" className="text-blue-500 hover:underline">
-        About
+        hello Mr Lanez
       </Link>
     </footer>
   )
