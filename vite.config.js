@@ -8,6 +8,6 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: process.env.PORT,
-    allowedHosts: ['https://taskme-user2025.azurewebsites.net/']
+    allowedHosts: ['taskme-user2025.azurewebsites.net']
   }
 })
